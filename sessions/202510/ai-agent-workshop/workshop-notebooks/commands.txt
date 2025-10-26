@@ -1,0 +1,5 @@
+(base) jovyan@37b4a3a25da7:~/workshop$ cat /etc/hosts
+127.0.0.1       localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1     localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.127.254 host.containers.internal host.docker.internal
+10.89.0.4       37b4a3a25da7 student01-9001
